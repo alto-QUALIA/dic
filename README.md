@@ -1,5 +1,5 @@
 # ハコネクトのユーザー辞書 バックアップ版
-- [まずこれが本家です](https://github.com/minerjirou/Haconect_Streamer_UserDic)
+- [まずこれが本家です🔗](https://github.com/minerjirou/Haconect_Streamer_UserDic)
 
 こちらの中の人が忙しくて更新出来てない時に、MS-IME形式限定でそれなりに使いやすそうな感じで追加したものをリリースすることがあります。
 またこちらのバージョンを出してる人も忙しいのでどっちも更新しないことがあるかもしれません。それはごめん･･･
